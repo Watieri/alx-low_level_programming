@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  *
@@ -8,7 +9,7 @@ int main(void)
 {
 	int n, m;
 
-	for (m = 49; m <= 57; m++)
+	for (n = 49; m <= 57; m++)
 	{
 		if (m > n)
 		{
